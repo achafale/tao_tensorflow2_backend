@@ -20,7 +20,7 @@ scikit-learn==1.2.2
 scipy==1.5.4
 seaborn==0.7.1
 pycuda==2022.2.2
-onnx==1.13.0
+onnx==1.16.0
 onnxruntime==1.14.0
 onnx-graphsurgeon==0.3.26
 git+https://github.com/onnx/tensorflow-onnx
